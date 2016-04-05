@@ -16,6 +16,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Debug/
+Release/
+xxxx_templateCplusPlus/
+*.sdf
+*.suo
+*.user
+*.opensdf
 
 # =========================
 # Operating System Files
